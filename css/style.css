@@ -1,6 +1,12 @@
     .navbar{
         background-color:rgb(1, 1, 71) ;
     }
+    
     .FOTOS{
         background-color: rgb(126, 147, 241);
+        padding-top:"20px";
+    }
+    
+    .NUMERO{
+        background-color:rgb(80, 177, 161)2);
     }
