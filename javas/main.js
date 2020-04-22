@@ -10,3 +10,7 @@ if (nome= ester , Ester , Ketlen , ketlen , Bruno , bruno , Cilie , cilie , Feli
 else{
     alert("FECHE A PAGE AGR, CASO NAO FIZER EU VOU SABER >:(");
 }
+
+function redirecionar(){
+    window.open("https://www.youtube.com/channel/UCiDMNjnrmAVUZQ2mz5miJHg?view_as=subscriber")
+}
