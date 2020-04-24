@@ -14,3 +14,11 @@ else{
 function redirecionar(){
     window.open("https://www.youtube.com/channel/UCiDMNjnrmAVUZQ2mz5miJHg?view_as=subscriber")
 }
+
+function trocar(){
+    document.getElementById("mousemove").innerHTML = "TROLLEI ARROMBADO KKK IH ALA QUER VER NUDES MEU"   
+}
+
+function voltar(){
+    document.getElementById("mousemove").innerHTML = "SAFADENHA(O) ( ͡° ͜ʖ ͡°)"
+}
